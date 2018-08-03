@@ -1,0 +1,13 @@
+.\out_path\heap_2.o: ..\FreeRTOS\heap_2.c
+.\out_path\heap_2.o: D:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\out_path\heap_2.o: ..\FreeRTOS\include\FreeRTOS.h
+.\out_path\heap_2.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\out_path\heap_2.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\out_path\heap_2.o: ..\FreeRTOS\include\FreeRTOSConfig.h
+.\out_path\heap_2.o: ..\FreeRTOS\include\projdefs.h
+.\out_path\heap_2.o: ..\FreeRTOS\include\portable.h
+.\out_path\heap_2.o: ..\FreeRTOS\include\deprecated_definitions.h
+.\out_path\heap_2.o: ..\FreeRTOS\include\portmacro.h
+.\out_path\heap_2.o: ..\FreeRTOS\include\mpu_wrappers.h
+.\out_path\heap_2.o: ..\FreeRTOS\include\task.h
+.\out_path\heap_2.o: ..\FreeRTOS\include\list.h

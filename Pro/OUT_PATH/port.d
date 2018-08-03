@@ -1,0 +1,12 @@
+.\out_path\port.o: ..\FreeRTOS\port.c
+.\out_path\port.o: ..\FreeRTOS\include\FreeRTOS.h
+.\out_path\port.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\out_path\port.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\out_path\port.o: ..\FreeRTOS\include\FreeRTOSConfig.h
+.\out_path\port.o: ..\FreeRTOS\include\projdefs.h
+.\out_path\port.o: ..\FreeRTOS\include\portable.h
+.\out_path\port.o: ..\FreeRTOS\include\deprecated_definitions.h
+.\out_path\port.o: ..\FreeRTOS\include\portmacro.h
+.\out_path\port.o: ..\FreeRTOS\include\mpu_wrappers.h
+.\out_path\port.o: ..\FreeRTOS\include\task.h
+.\out_path\port.o: ..\FreeRTOS\include\list.h
